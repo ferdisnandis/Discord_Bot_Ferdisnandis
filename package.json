@@ -1,0 +1,30 @@
+{
+  "name": "ferdisnandis",
+  "version": "1.0.0",
+  "description": "Um bot de estudos para testar as funcionalidades como: Tocar música; Jogos; Moderação e Interação para o servidor!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandacarvalhodev/Discord_Bot_Ferdisnandis.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Jogos",
+    "Moderação",
+    "Musica"
+  ],
+  "author": "Fernanda Carvalho - fe97964@gmail.com -  https://www.linkedin.com/in/fernanda-carvalho-3b148b1b9/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandacarvalhodev/Discord_Bot_Ferdisnandis/issues"
+  },
+  "homepage": "https://github.com/fernandacarvalhodev/Discord_Bot_Ferdisnandis#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ytdl-core": "^4.8.3"
+  }
+}
