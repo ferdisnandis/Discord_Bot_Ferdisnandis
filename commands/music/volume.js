@@ -17,6 +17,6 @@ const execute = (bot, message, args) => {
 
 module.exports = {
     name: "volume",
-    help: "Change the music volume || >volume [number]",
+    help: "Change the music volume | >volume [number]",
     execute
 }

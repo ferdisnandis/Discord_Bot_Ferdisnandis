@@ -10,6 +10,6 @@ const execute = (bot, message, args) => {
 
 module.exports = {
     name: "pause",
-    help: "Pause the current song || >pause",
+    help: "Pause the current song | >pause",
     execute,
 }

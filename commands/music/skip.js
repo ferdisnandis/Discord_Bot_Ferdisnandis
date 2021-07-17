@@ -18,6 +18,6 @@ const execute = (bot, msg, args) => {
 
 module.exports = {
   name: "skip",
-  help: "Skip to the next song || >skip",
+  help: "Skip to the next song | >skip",
   execute,
 };

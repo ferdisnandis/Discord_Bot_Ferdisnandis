@@ -12,6 +12,6 @@ const execute = (bot, message, args) => {
 
 module.exports = {
     name: "stop",
-    help: "Stop playing music || >stop",
+    help: "Stop playing music | >stop",
     execute,
 }

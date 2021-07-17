@@ -63,7 +63,7 @@ const execute = (bot, msg, args) => {
   
   module.exports = {
     name: "play",
-    help: "Play the song you want || >play [song name] or [song link]",
+    help: "Play the song you want | >play [song name] or [song link]",
     execute,
     playSong,
   };
