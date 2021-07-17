@@ -2,9 +2,9 @@
 
 Meet the Ferdisnandis bot! 😅
 
-> Can play music on your server's voice channel 🎵
-> Can greet you when you say hello 👋
-> For more information on all commands type "> help" 🆘
+- Can play music on your server's voice channel 🎵
+- Can greet you when you say hello 👋
+- For more information on all commands type "> help" 🆘
 
 ===== HELP =====
 
