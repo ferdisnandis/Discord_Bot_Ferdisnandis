@@ -1,6 +1,6 @@
 module.exports = {
     name: 'hello',
-    help: 'say hi and then I will answer you!"',
+    help: 'say hi and then I will answer you! || >hello"',
     execute(bot, message, args){
 
         //Options of differents answers that you can get
