@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 module.exports = {
     name: 'kiss',
-    help: 'Send a kiss to someone in the server',
+    help: 'Send a kiss to someone on the server',
     execute(bot, message, args) {
 
         var list = [
